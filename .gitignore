@@ -144,3 +144,8 @@ ui-apps/node_modules/
 
 # Telemetry configuration (user-specific)
 ~/.n8n-mcp/
+
+
+# Certs
+hostinger
+hostinger.pub
